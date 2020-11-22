@@ -1,0 +1,1 @@
+** Welcome to the StockWidegt App's website
