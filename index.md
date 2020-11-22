@@ -1,1 +1,1 @@
-**Welcome to the StockWidegt App's website**
+**Welcome to the StockWidget App's website**
