@@ -3,13 +3,13 @@
 
 ## Available on the PlayStore
 
-![Download the application](https://play.google.com/store/apps/details?id=com.stock.widget)
+[![Download the application](/images/playstore.png)](https://play.google.com/store/apps/details?id=com.stock.widget)
 
 ## If you like the app how to support the developer !?
 
 ### Rate the app he helps a lot !
-![Download the application](/images/rating.png)
 
+[![Rate the app](/images/rate-us.png)](https://play.google.com/store/apps/details?id=com.stock.widget)
 
 ### Make a donation !
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](YOUR_EMAIL_CODE)
