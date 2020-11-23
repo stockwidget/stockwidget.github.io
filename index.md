@@ -17,7 +17,7 @@ With a good reviews and a five stars ratings ! It helps the app to have a good p
 
 The app is advertising free, so you can "buy me a coffee" !
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/stockwidget)
+[![Donate](/images/paypal.png)](https://www.paypal.com/paypalme/stockwidget)
 
 ### 💬 By providing your valuable feedback !
 
