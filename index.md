@@ -17,4 +17,9 @@ With a good reviews and a five stars ratings ! It helps the app to have a good p
 
 The app is advertising free, so you can Buy me a coffee !
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](YOUR_EMAIL_CODE)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/stockwidget)
+
+### 💬 By providing your valuable feedback !
+
+By asking for missing ticker or sharing your needs !
+Most of the features I added was comming from users requests, that's a nice way for me to unerstand what could be useful to add in the app.
