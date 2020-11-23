@@ -21,5 +21,5 @@ The app is advertising free, so you can Buy me a coffee !
 
 ### 💬 By providing your valuable feedback !
 
-By asking for missing ticker or sharing your needs !
-Most of the features I added was comming from users requests, that's a nice way for me to unerstand what could be useful to add in the app.
+By asking for missing ticker or sharing your needs !  
+Most of the features I added was coming from users requests, that's a nice way for me to unerstand what could be useful to add in the app.
