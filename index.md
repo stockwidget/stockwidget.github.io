@@ -23,3 +23,7 @@ The app is advertising free, so you can "buy me a coffee" !
 
 By asking for missing ticker or sharing your needs !  
 Most of the features I added was coming from users requests, that's a nice way for me to understand what could be useful to add in the app.
+
+### Privacy policy
+
+[Click here](/privacy-policy.md)
